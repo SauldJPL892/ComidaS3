@@ -1,0 +1,30 @@
+body{
+	background-color: lightyellow;
+}
+ .center{
+ 	display: block;
+ 	margin: auto;
+ 	margin-left: auto;
+ 	width: 50%;
+    width: 500px;
+}
+titulo{
+	font-family: "Gunmetal", sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+table {
+	margin-left: 200px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	width: 700px;
+}
+th{
+	color: black;
+}
+Hamburgesa{
+	color: orange;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+}
